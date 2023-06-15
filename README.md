@@ -2,6 +2,8 @@ Disney-Hotstar is a web application inspired by Disney Plus Hotstar for users to
 
 Disney-Hotstar is a personal project by Dhruv Sharma.
 
+Website link: https://disney-plus-3ecf3.web.app/
+
 Major Features :
 
 1. Singup and Signin Page:
