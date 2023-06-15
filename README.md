@@ -8,7 +8,7 @@ Major Features :
     •Authentication of users
     •New User Signup
     •Supports Google Signin and Signup.
-    •Fully Responsive Design with animated background and smooth            animations.
+    •Fully Responsive Design with animated background and smooth animations.
     
 
 <img width="960" alt="image" src="https://github.com/DhruvSharma19/disney-hotstar/assets/112254552/83fc37bb-375b-49d5-aa7b-37bf04726c52">
@@ -20,4 +20,5 @@ Major Features :
 
 ![image](https://github.com/DhruvSharma19/disney-hotstar/assets/112254552/0e6dd40f-f3b2-4ca6-b7b7-87ffe1532fe5)
 
+![Web capture_15-6-2023_181121_disney-plus-3ecf3 web app](https://github.com/DhruvSharma19/disney-hotstar/assets/112254552/a7e98182-bda5-4a65-bdd1-28f791792f76)
 
