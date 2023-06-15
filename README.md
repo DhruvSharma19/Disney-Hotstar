@@ -28,3 +28,12 @@ Major Features :
 
 ![Web capture_15-6-2023_181121_disney-plus-3ecf3 web app](https://github.com/DhruvSharma19/disney-hotstar/assets/112254552/a7e98182-bda5-4a65-bdd1-28f791792f76)
 
+
+Technology
+
+Disney-Hotstar is a single-page application built using :
+    1.React
+    2.Firebase
+   
+
+
