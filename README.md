@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+Disney-Hotstar is a web application inspired by Disney Plus Hotstar for users to stream movies.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Disney-Hotstar is a personal project by Dhruv Sharma.
 
-## Available Scripts
+Website link: https://disney-plus-3ecf3.web.app/
 
-In the project directory, you can run:
+Major Features :
 
-### `npm start`
+1. Singup and Signin Page:
+    •Authentication of users
+    •New User Signup
+    •Supports Google Signin and Signup.
+    •Fully Responsive Design with animated background and smooth animations.
+    
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img width="960" alt="image" src="https://github.com/DhruvSharma19/disney-hotstar/assets/112254552/83fc37bb-375b-49d5-aa7b-37bf04726c52">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2.Home Page:
+      •Shows all the movies of different categories with a Carousel for most watched movies.
+      •Different categories of movies are organised.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://github.com/DhruvSharma19/disney-hotstar/assets/112254552/0e6dd40f-f3b2-4ca6-b7b7-87ffe1532fe5)
 
-### `npm run build`
+3.Video Page:
+      •Shows all the information of the selected movie.
+      •You can watch the movie and add the movie in the watchList.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Web capture_15-6-2023_181121_disney-plus-3ecf3 web app](https://github.com/DhruvSharma19/disney-hotstar/assets/112254552/a7e98182-bda5-4a65-bdd1-28f791792f76)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Technology
 
-### `npm run eject`
+Disney-Hotstar is a single-page application built using :
+    1.React
+    2.Firebase
+   
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
