@@ -4,7 +4,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import Detail from './components/Detail';
-import Signup from './components/Signup';
 
 
 function App() {
@@ -16,7 +15,6 @@ function App() {
           <Route apth="/">
             <Route index element={<Login/>}/>
             <Route path="home" element={<Home/>}/>
-            <Route path="signup" element={<Signup/>}/>
             <Route  path="details/:id" element={<Detail/>}/>
           </Route>
         </Routes>
