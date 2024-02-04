@@ -86,9 +86,7 @@ const Wrap=styled.div`
 
 
 
-    @media (max-width:768px) {
-            height: 20vh;
-    }
+    
 `;
 
 
